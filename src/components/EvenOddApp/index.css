@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-image: linear-gradient(to top, #bfe9ff, #ff6e7f);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.button {
+  height: 28px;
+  width: 80px;
+  border-radius: 6px;
+}
+
+.count-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
